@@ -1,7 +1,1 @@
-
-Línea añadida en local en la tarea.
-Línea añadida desde GitHub en la tarea.
-
-Línea añadida en local en la tarea.
-Línea editada en local para forzar conflicto.
-Cambio hecho en mi PC para provocar conflicto.
+Cambio desde GitHub editando la primera línea.
