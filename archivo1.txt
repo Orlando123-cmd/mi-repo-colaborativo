@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cambio desde mi PC editando la primera línea.
+=======
+Cambio desde GitHub editando la primera línea.
+>>>>>>> 3a26d3b4759aa9f3471a87e7faa212d0a8931832
